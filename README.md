@@ -23,7 +23,7 @@
 
 💬 Ask me about **Javascript, Python, IOS, Windows and Linux.**
 
-📫 How to reach me 𝕦𝕘𝕦𝕣𝕠𝕜𝕦𝕣𝟛𝟞𝟝 @ 𝕙𝕠𝕥𝕞𝕒𝕚𝕝.𝕔𝕠𝕞
+📫 You can contact with me  𝕦𝕘𝕦𝕣𝕠𝕜𝕦𝕣𝟛𝟞𝟝 @ 𝕙𝕠𝕥𝕞𝕒𝕚𝕝.𝕔𝕠𝕞 and my twitter !!
   </div>
 
 
