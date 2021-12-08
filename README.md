@@ -34,10 +34,7 @@
   <a href="https://twitter.com/murderuo" rel="follow"><img src="https://raw.githubusercontent.com/tusharsadhwani/tusharsadhwani/master/icons/twitter.svg" height="32" width="32" style="max-width: 100%;"></a>
 
 </p>
-
-<p align="center">
 <h3 align="center">Tools:</h3>
+<p align="center">
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
-
-
 </p>
