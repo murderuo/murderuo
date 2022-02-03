@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **Python, Javascript, windows, Android, IOS**
 
-- 📫 How to reach me **ugurokur 365@hotmail.com**
+- 📫 How to reach me **ugurokur365+github@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
