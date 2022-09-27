@@ -24,7 +24,7 @@
 
 <p align="center"> <a href="https://twitter.com/murderuo" target="blank"><img src="https://img.shields.io/twitter/follow/murderuo?logo=twitter&style=for-the-badge" alt="murderuo" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, React.Js, Vue.Js, Node.js**
+- 🌱 I’m currently learning **JavaScript, React.Js, Python, Css **
 
 - 💬 Ask me about **Python, Javascript, windows, Android, IOS**
 
